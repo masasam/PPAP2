@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  pen-pineapple
-date:   2017-10-02 16:59:55 +0900
-categories: 
+date:   2017-10-02 23:46:52 +0900
 ---
-pen
+i
