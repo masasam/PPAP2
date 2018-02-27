@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
-git checkout gh-pages
-git add -A
-git commit -m "Update blog"
-git push origin gh-pages
+set -e
+set -u
+set -x
+
+pwd > cat1.txt
